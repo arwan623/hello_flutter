@@ -3,7 +3,7 @@
 Project Flutter pertama untuk tugas praktikum.
 
 ## Screenshot Aplikasi
-(Akan ditambahkan)
+Seperti pada tugas terlampir
 
 ## Dibuat oleh
-Arwan Yops
+Arwan
